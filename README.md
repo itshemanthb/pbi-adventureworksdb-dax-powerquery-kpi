@@ -162,25 +162,18 @@ Show what the dashboard looks like.
 
 **Dashboard Preview**
 
-![AdventureWorks Sales Analytics Dashboard](screenshots/executive-dashboard.png)
+![AdventureWorks Sales Analytics Dashboard](https://github.com/itshemanthb/pbi-adventureworksdb-dax-powerquery-kpi/blob/main/img1.png)
 
 **Additional Report Pages**
 
-You can also include screenshots of the following pages to showcase the complete project:
-
-- **Executive Dashboard** – Overall business performance and KPIs.
 - **Product Details** – Product-level sales and category analysis.
+![AdventureWorks Sales Analytics Dashboard](https://github.com/itshemanthb/pbi-adventureworksdb-dax-powerquery-kpi/blob/main/img2.png)
+
 - **Geographic Map** – Order distribution by country.
+![AdventureWorks Sales Analytics Dashboard](https://github.com/itshemanthb/pbi-adventureworksdb-dax-powerquery-kpi/blob/main/img3.png)
+
 - **Customer Details** – Customer segmentation, trends, and revenue analysis.
-
-**How to Run the Project**
-
-1. Clone or download this repository.
-2. Open `PBI_Assign_1_Hemanth B.pbix` using Microsoft Power BI Desktop.
-3. If prompted, configure the required data source or refresh the data.
-4. Explore the report using its interactive visuals, filters, slicers, and page navigation.
-
-**Project File:** `PBI_Assign_1_Hemanth B.pbix`
+![AdventureWorks Sales Analytics Dashboard](https://github.com/itshemanthb/pbi-adventureworksdb-dax-powerquery-kpi/blob/main/img4.png)
 
 **Tools Required:** Microsoft Power BI Desktop
 
